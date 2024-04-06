@@ -1,7 +1,5 @@
 import 'package:account_example/screens/edit_screen.dart';
 import 'package:account_example/widgets/forward_button.dart';
-import 'package:account_example/widgets/setting_item.dart';
-import 'package:account_example/widgets/setting_switch.dart';
 import 'package:flutter/material.dart';
 import 'package:ionicons/ionicons.dart';
 
