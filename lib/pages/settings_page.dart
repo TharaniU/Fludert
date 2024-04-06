@@ -16,7 +16,7 @@ class _SettingsPageState extends State<SettingsPage> {
   bool isDarkMode = false;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) { //widget
     return Scaffold(
       appBar: AppBar(
         leading: IconButton(
